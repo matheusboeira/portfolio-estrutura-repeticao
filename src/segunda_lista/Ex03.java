@@ -1,4 +1,4 @@
-package entities;
+package segunda_lista;
 
 public class Ex03 {
 	public static void exercicio() {

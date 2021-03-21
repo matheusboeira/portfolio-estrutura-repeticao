@@ -1,4 +1,4 @@
-package entities;
+package segunda_lista;
 
 import java.util.Scanner;
 
