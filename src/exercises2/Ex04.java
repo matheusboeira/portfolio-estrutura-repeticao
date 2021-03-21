@@ -1,4 +1,4 @@
-package segunda_lista;
+package exercises2;
 
 import java.util.Scanner;
 

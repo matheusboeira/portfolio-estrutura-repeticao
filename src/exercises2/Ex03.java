@@ -1,4 +1,4 @@
-package segunda_lista;
+package exercises2;
 
 public class Ex03 {
 	public static void exercicio() {

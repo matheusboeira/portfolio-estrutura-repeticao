@@ -2,10 +2,10 @@ package application;
 
 import java.util.Scanner;
 
-import segunda_lista.Ex01;
-import segunda_lista.Ex02;
-import segunda_lista.Ex03;
-import segunda_lista.Ex04;
+import exercises2.Ex01;
+import exercises2.Ex02;
+import exercises2.Ex03;
+import exercises2.Ex04;
 
 public class Program {
 	public static void main(String[] args) {
