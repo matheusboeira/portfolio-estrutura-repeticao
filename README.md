@@ -1,4 +1,4 @@
-# Portfólio: Marco 2
+# Portfólio: Marco 2 - Estruturas de Repetição
 
 Portfólio: Marco 2. Resolução da lista de exercícios. Estruturas de repetição.
 
