@@ -6,6 +6,9 @@ import exercises2.Ex01;
 import exercises2.Ex02;
 import exercises2.Ex03;
 import exercises2.Ex04;
+import exercises2.Ex05;
+import exercises2.Ex06;
+import exercises2.Ex07;
 
 public class Program {
 	public static void main(String[] args) {
@@ -41,22 +44,23 @@ public class Program {
 					break;
 					
 				case 5:
-					
+					Ex05.exercicio(entrada);
 					break;
 					
 				case 6:
-					
+					var Ex06 = new Ex06();
+					Ex06.exercicio(entrada);
 					break;
 					
 				case 7:
-					
+					Ex07.exercicio(entrada);
 					break;
 					
 				default:
 					System.out.printf("%nPor favor, entre com uma opção válida.");
 			}
 		} catch(Exception e) {
-			System.out.printf("%nEntrada inválida.");
+			System.out.println("* Entrada inválida.");
 		}
 	}
 }
